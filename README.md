@@ -8,8 +8,8 @@ I am a second year student at SoftUni program JavaScript Web Developer
 
 * 🌍  I'm based in Bulgaria
 * ✉️  You can contact me at [baito6u@gmail.com](mailto:baito6u@gmail.com)
-* 🧠  I am currently studying Front-End Framework: Angular remains the Web module and React
-
+* 🧠  I recently completed the JS Web Developer module in SoftUni with an excellent result.
+  
 ### Skills
 
 
